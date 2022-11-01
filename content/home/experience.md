@@ -22,29 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Fellow, Data Science
+  - title: Fellow and Director, Data Science
     company: C. H. Robinson
     company_url: https://www.chrobinson.com/en/
     company_logo: org-chr
     location: Minnesota
-    date_start: '2019-03-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+    date_start: "2019-03-01"
+    date_end: ""
+    # description: |2-
+    #     Responsibilities include:
+
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
+
   - title: Sr. Software Engineer
     company: Entrust Datacard
-    company_url: 'https://www.entrust.com/'
+    company_url: "https://www.entrust.com/"
     company_logo: org-entrust
     location: Minnesota
-    date_start: '2015-02-01'
-    date_end: '2019-03-01'
-    description: 
+    date_start: "2015-02-01"
+    date_end: "2019-03-01"
+    description:
 
 design:
-  columns: '2'
+  columns: "2"
 ---
