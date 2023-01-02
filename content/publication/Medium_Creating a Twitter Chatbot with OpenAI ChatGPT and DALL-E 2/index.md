@@ -1,7 +1,6 @@
 ---
 draft: false
-title: "Creating a Twitter Chatbot with OpenAI ChatGPT and DALL-E 2
-"
+title: "Creating a Twitter Chatbot with OpenAI ChatGPT and DALL-E 2"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
