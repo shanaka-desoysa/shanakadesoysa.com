@@ -38,7 +38,7 @@ Whether you are a developer looking to build a Twitter bot or simply interested 
 # Summary. An optional shortened abstract.
 summary: Twitter chatbot that uses OpenAI’s ChatGPT and DALL-E 2 to answer questions and generate images. By following the steps outlined in this article, you can set up your own chatbot and start experimenting with these cutting-edge AI technologies.
 
-tags: ["OpenAPI", "ChatGPT", "GPT3", "DALL-E-2", "Twitter Bot", "AI"]
+tags: ["OpenAI", "ChatGPT", "GPT3", "DALL-E-2", "Twitter Bot", "AI"]
 
 # Display this page in the Featured widget?
 featured: true
@@ -46,17 +46,9 @@ featured: true
 # Custom links (uncomment lines below)
 links:
   - name: Medium
-    url: https://medium.com/@shanakadesoysa/creating-a-twitter-chatbot-with-openai-chatgpt-and-dall-e-2-d6bbf2d0230b
-
-# url_pdf: "https://ieeexplore.ieee.org/document/5683083"
-# url_code: ""
-# url_dataset: ""
-# url_poster: ""
-# url_project: ""
-# url_slides: ""
-# url_source: ""
-# url_video: ""
-
+    url: https://medium.com/better-programming/creating-a-twitter-chatbot-with-openai-chatgpt-and-dall-e-2-d6bbf2d0230b
+  - name: GitHub
+    url: https://github.com/shanaka-desoysa/twitter-chatgpt
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -64,27 +56,6 @@ image:
   focal_point: ""
   preview_only: false
 
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
 projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-<!-- {{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
