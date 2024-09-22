@@ -6,12 +6,12 @@ title: Shanaka C. DeSoysa
 superuser: true
 
 # Role/position/tagline
-role: Fellow and Director, Data Science
+role: Vice President, Advanced Analytics at Wells Fargo
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: C. H. Robinson
-    url: https://www.chrobinson.com/en/
+  - name: Wells Fargo
+    url: https://www.wellsfargo.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data science, machine learning, and computer science.
@@ -73,6 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-Shanaka DeSoysa is a Fellow, Data Science at C.H. Robinson. His research interests include Data Science, Machine Learning, Computer Science.
+Shanaka C. DeSoysa is a Vice President, Advanced Analytics at Wells Fargo. His research interests include AI, Data Science, Machine Learning, Computer Science.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->

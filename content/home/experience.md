@@ -22,13 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Vice President, Advanced Analytics
+    company: Wells Fargo
+    company_url: https://www.wellsfargo.com/
+    company_logo: org-wellsfargo
+    location: Minnesota
+    date_start: "2024-09-23"
+    date_end: ""
+
+  - title: Lead AI Consultant
+    company: Ecolab
+    company_url: https://www.ecolab.com/
+    company_logo: org-ecolab
+    location: Minnesota
+    date_start: "2024-07-01"
+    date_end: "2024-09-20"
+
   - title: Fellow and Director, Data Science
     company: C. H. Robinson
     company_url: https://www.chrobinson.com/en/
     company_logo: org-chr
     location: Minnesota
     date_start: "2019-03-01"
-    date_end: ""
+    date_end: "2019-06-01"
     # description: |2-
     #     Responsibilities include:
 
