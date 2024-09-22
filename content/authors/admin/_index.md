@@ -73,6 +73,6 @@ email: ""
 highlight_name: false
 ---
 
-Shanaka C. DeSoysa is a Vice President, Advanced Analytics at Wells Fargo. His research interests include AI, Data Science, Machine Learning, Computer Science.
+Shanaka C. DeSoysa is Vice President, Advanced Analytics at Wells Fargo. His research interests include AI, Data Science, Machine Learning, Computer Science.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
