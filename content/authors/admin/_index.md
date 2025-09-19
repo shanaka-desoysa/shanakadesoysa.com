@@ -6,7 +6,7 @@ title: Shanaka C. DeSoysa
 superuser: true
 
 # Role/position/tagline
-role: `Transforming Businesses through AI-driven Innovation`
+role: Transforming Businesses through AI-driven Innovation
 
 # Organizations/Affiliations to show in About widget
 organizations:
