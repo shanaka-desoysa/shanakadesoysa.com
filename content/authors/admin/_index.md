@@ -6,11 +6,11 @@ title: Shanaka C. DeSoysa
 superuser: true
 
 # Role/position/tagline
-role: Vice President, Advanced Analytics at Wells Fargo
+role: Transforming businesses through AI-driven innovation | 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Wells Fargo
+  - name: Vice President, Advanced Analytics @ Wells Fargo
     url: https://www.wellsfargo.com/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,9 +18,10 @@ bio: My research interests include data science, machine learning, and computer 
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Data Science
-  - Machine Learning
+  - Artificial Intelligence & Generative AI
+  - Machine Learning & Advanced Analytics
+  - Data Science Strategy & Scalable Systems
+  - Ethical AI, Governance, and Automation
 
 # Education to show in About widget
 education:
@@ -73,6 +74,6 @@ email: ""
 highlight_name: false
 ---
 
-Shanaka C. DeSoysa is Vice President, Advanced Analytics at Wells Fargo. His research interests include AI, Data Science, Machine Learning, Computer Science.
+Shanaka C. DeSoysa is Vice President of Advanced Analytics at Wells Fargo and a distinguished leader in AI, machine learning, and data science. He specializes in architecting scalable AI/ML ecosystems, integrating GenAI solutions, and driving enterprise-wide digital transformation. With deep expertise in advanced analytics, MLOps, and cloud-native deployments, Shanaka is passionate about fostering an AI-first culture and delivering measurable business impact through ethical and innovative technologies.
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
