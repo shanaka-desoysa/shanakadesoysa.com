@@ -44,7 +44,7 @@ experience:
     company_logo: org-chr
     location: Minnesota
     date_start: "2019-03-01"
-    date_end: "2019-06-01"
+    date_end: "2024-06-20"
     # description: |2-
     #     Responsibilities include:
 
